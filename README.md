@@ -1,16 +1,15 @@
 Welcome to my GitHub profile, here you'll find various projects that I've worked on over the years. Some are garbage, so don't judge.
 
-If you want to reach out,  
 [![email me][email]][email_link]
 
 I mostly deal with the following technologies
 
-|           |          |        |       |
-| --------- | -------- | ------ | ----- |
-| ![mobile] | ![xf]    | ![xi]  | ![xa] |
-| ![rider]  | ![vs]    | ![vsc] |       |
-| ![csharp] | ![bash]  | ![ps]  |       |
-| ![azure]  | ![nuget] |        |       |
+|           |          |         |       |
+| --------- | -------- | ------- | ----- |
+| ![mobile] | ![xf]    | ![xi]   | ![xa] |
+| ![rider]  | ![vs]    | ![vsc]  |       |
+| ![csharp] | ![csnet] | ![bash] | ![ps] |
+| ![azure]  | ![nuget] |         |       |
 
 If you want to find me elsewhere on the interwebs, here's a list of places I frequent.
 
@@ -48,3 +47,4 @@ If you want to find me elsewhere on the interwebs, here's a list of places I fre
 [csharp]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/languages/csharp.svg
 [bash]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/tools/bash.svg
 [ps]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/tools/powershell.svg
+[csnet]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg
