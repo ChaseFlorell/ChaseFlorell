@@ -1,6 +1,8 @@
 Welcome to my GitHub profile, here you'll find various projects that I've worked on over the years. Some are garbage, so don't judge.
 
-If you want to reach out, please [do so here](https://github.com/ChaseFlorell/Feedback/issues/new)
+If you want to reach out,  
+[![email me][email]][email_link]
+
 I mostly deal with the following technologies
 
 |           |          |        |       |
@@ -19,6 +21,9 @@ If you want to find me elsewhere on the interwebs, here's a list of places I fre
 |[![][li]][li_link] | rarely |
 |[![][so]][so_link] | weekly |
 |[![][reddit]][reddit_link] | rarely |
+
+[email]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/social/email_me.svg
+[email_link]: https://github.com/ChaseFlorell/Feedback/issues/new
 
 [tw]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/social/twitter.svg
 [tw_link]: https://twitter.com/chaseflorell/
