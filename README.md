@@ -3,10 +3,12 @@ Welcome to my GitHub profile, here you'll find various projects that I've worked
 If you want to reach out, please [do so here](https://github.com/ChaseFlorell/Feedback/issues/new)
 I mostly deal with the following technologies
 
-| | | | | |
-| - | - | - | - | - |
-| ![azure] | ![nuget] | ![rider] | ![vs] | ![vsc] |
-| ![mobile] | ![xf] | ![xi] | ![xa] | |
+|           |          |        |       |
+| --------- | -------- | ------ | ----- |
+| ![mobile] | ![xf]    | ![xi]  | ![xa] |
+| ![rider]  | ![vs]    | ![vsc] |       |
+| ![csharp] | ![bash]  | ![ps]  |       |
+| ![azure]  | ![nuget] |        |       |
 
 If you want to find me elsewhere on the interwebs, here's a list of places I frequent.
 
@@ -38,3 +40,6 @@ If you want to find me elsewhere on the interwebs, here's a list of places I fre
 [xf]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/frameworks/xamarin_forms.svg
 [xa]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/frameworks/xamarin_android.svg
 [xi]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/frameworks/xamarin_ios.svg
+[csharp]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/languages/csharp.svg
+[bash]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/tools/bash.svg
+[ps]: https://github.com/ChaseFlorell/ColoredBadges/raw/master/svg/dev/tools/powershell.svg
